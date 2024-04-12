@@ -78,6 +78,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     background-color: rgba(0,0, 0, 0.1);
+    color: var(--third-color);
 }  
 
 .header-top {
